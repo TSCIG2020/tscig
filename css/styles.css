@@ -10217,24 +10217,27 @@ header.masthead h1 {
   margin-bottom: -70px;
 }
 
-#fb-social {
-  color: #3b5998;
+#yt-social {
+  color: #c4302b;
   font-size: 30px;
+  margin-right: 5px;
 }
 
 #tw-social {
   color: #1DA1F2;
-  font-size: 30px;
+  font-size: 20px;
 }
 
 #pi-social {
   color: #c8232c;
-  font-size: 30px;
+  font-size: 20px;
+  margin-left: 5px;
 }
 
 #footer-sc {
   background: black;
   color: white;
+  margin-left: 10px;
 }
 
 #footer-text {
